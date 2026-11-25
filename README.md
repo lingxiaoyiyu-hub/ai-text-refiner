@@ -200,7 +200,7 @@ A：我们针对检测工具做过专项调优与大量复测，其他检测器�
 
 - GitHub 发布页：<https://github.com/lingxiaoyiyu-hub/LingCraft-Release/releases>
 
-- 当前版本：v6.0.2（2026-11-25）
+- 当前版本：v6.0.3（2026-11-25）
 
 - 授权渠道：官网 xcbot.cyou
 
